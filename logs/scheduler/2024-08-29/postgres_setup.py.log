@@ -1,0 +1,1268 @@
+[2024-08-29T16:11:26.844+0300] {processor.py:186} INFO - Started process (PID=78210) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:11:26.845+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:11:26.850+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:11:26.849+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:11:26.859+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:11:26.860+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:11:26.860+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:11:26.879+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:11:27.112+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:11:27.111+0300] {override.py:1900} INFO - Created Permission View: can read on DAG:tc4a_data_visualization
+[2024-08-29T16:11:27.137+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:11:27.136+0300] {override.py:1900} INFO - Created Permission View: can edit on DAG:tc4a_data_visualization
+[2024-08-29T16:11:27.155+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:11:27.154+0300] {override.py:1900} INFO - Created Permission View: can delete on DAG:tc4a_data_visualization
+[2024-08-29T16:11:27.173+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:11:27.172+0300] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:tc4a_data_visualization
+[2024-08-29T16:11:27.189+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:11:27.188+0300] {override.py:1900} INFO - Created Permission View: can read on DAG Run:tc4a_data_visualization
+[2024-08-29T16:11:27.206+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:11:27.205+0300] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:tc4a_data_visualization
+[2024-08-29T16:11:27.223+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:11:27.222+0300] {override.py:1900} INFO - Created Permission View: can create on DAG Run:tc4a_data_visualization
+[2024-08-29T16:11:27.225+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:11:27.224+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:11:27.252+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:11:27.252+0300] {dag.py:3234} INFO - Creating ORM DAG for tc4a_data_visualization
+[2024-08-29T16:11:27.253+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:11:27.253+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:11:27.284+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.451 seconds
+[2024-08-29T16:11:58.065+0300] {processor.py:186} INFO - Started process (PID=78491) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:11:58.065+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:11:58.068+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:11:58.068+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:11:58.072+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:11:58.072+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:11:58.072+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:11:58.082+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:11:58.120+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:11:58.120+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:11:58.144+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:11:58.144+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:11:58.178+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.121 seconds
+[2024-08-29T16:12:28.423+0300] {processor.py:186} INFO - Started process (PID=79018) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:12:28.424+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:12:28.430+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:12:28.429+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:12:28.438+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:12:28.439+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:12:28.439+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:12:28.467+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:12:28.528+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:12:28.527+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:12:28.553+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:12:28.552+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:12:28.594+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.182 seconds
+[2024-08-29T16:12:58.834+0300] {processor.py:186} INFO - Started process (PID=79264) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:12:58.835+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:12:58.839+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:12:58.838+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:12:58.843+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:12:58.843+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:12:58.844+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:12:58.859+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:12:58.898+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:12:58.897+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:12:58.924+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:12:58.923+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:12:58.967+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.142 seconds
+[2024-08-29T16:13:29.212+0300] {processor.py:186} INFO - Started process (PID=79524) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:13:29.214+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:13:29.220+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:13:29.219+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:13:29.227+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:13:29.228+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:13:29.228+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:13:29.256+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:13:29.307+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:13:29.306+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:13:29.336+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:13:29.336+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:13:29.377+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.181 seconds
+[2024-08-29T16:13:59.620+0300] {processor.py:186} INFO - Started process (PID=80165) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:13:59.623+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:13:59.628+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:13:59.627+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:13:59.633+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:13:59.633+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:13:59.633+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:13:59.645+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:13:59.677+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:13:59.676+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:13:59.700+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:13:59.700+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:13:59.735+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.125 seconds
+[2024-08-29T16:14:29.961+0300] {processor.py:186} INFO - Started process (PID=80565) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:14:29.962+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:14:29.967+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:14:29.966+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:14:29.972+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:14:29.972+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:14:29.973+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:14:29.990+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:14:30.029+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:14:30.028+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:14:30.055+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:14:30.054+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:14:30.086+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.134 seconds
+[2024-08-29T16:14:47.226+0300] {processor.py:186} INFO - Started process (PID=80712) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:14:47.227+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:14:47.230+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:14:47.229+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:14:47.235+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:14:47.235+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:14:47.235+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:14:47.247+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:14:47.435+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:14:47.435+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:14:47.453+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:14:47.453+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:14:47.486+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.270 seconds
+[2024-08-29T16:15:17.704+0300] {processor.py:186} INFO - Started process (PID=81081) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:15:17.706+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:15:17.713+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:15:17.711+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:15:17.722+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:15:17.722+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:15:17.722+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:15:17.747+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:15:17.789+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:15:17.788+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:15:17.811+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:15:17.810+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:15:17.841+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.151 seconds
+[2024-08-29T16:15:48.080+0300] {processor.py:186} INFO - Started process (PID=82103) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:15:48.090+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:15:48.095+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:15:48.094+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:15:48.100+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:15:48.100+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:15:48.100+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:15:48.115+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:15:48.152+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:15:48.151+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:15:48.170+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:15:48.170+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:15:48.202+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.127 seconds
+[2024-08-29T16:16:18.443+0300] {processor.py:186} INFO - Started process (PID=82380) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:16:18.444+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:16:18.448+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:16:18.447+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:16:18.453+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:16:18.453+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:16:18.453+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:16:18.466+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:16:18.505+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:16:18.504+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:16:18.535+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:16:18.534+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:16:18.569+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.135 seconds
+[2024-08-29T16:16:48.801+0300] {processor.py:186} INFO - Started process (PID=82640) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:16:48.811+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:16:48.815+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:16:48.814+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:16:48.820+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:16:48.820+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:16:48.821+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:16:48.837+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:16:48.874+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:16:48.873+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:16:48.901+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:16:48.900+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:16:48.928+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.137 seconds
+[2024-08-29T16:17:19.160+0300] {processor.py:186} INFO - Started process (PID=82906) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:17:19.169+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:17:19.173+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:17:19.172+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:17:19.178+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:17:19.178+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:17:19.178+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:17:19.195+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:17:19.240+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:17:19.239+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:17:19.263+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:17:19.262+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:17:19.299+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.148 seconds
+[2024-08-29T16:17:46.506+0300] {processor.py:186} INFO - Started process (PID=83309) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:17:46.507+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:17:46.511+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:17:46.511+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:17:46.520+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:17:46.520+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:17:46.520+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:17:46.537+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:17:46.683+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:17:46.682+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:17:46.700+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:17:46.700+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:17:46.738+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.244 seconds
+[2024-08-29T16:18:16.950+0300] {processor.py:186} INFO - Started process (PID=83560) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:18:16.959+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:18:16.964+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:18:16.963+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:18:16.969+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:18:16.969+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:18:16.969+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:18:16.985+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:18:17.019+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:18:17.019+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:18:17.040+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:18:17.039+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:18:17.067+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.126 seconds
+[2024-08-29T16:18:47.281+0300] {processor.py:186} INFO - Started process (PID=83813) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:18:47.283+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:18:47.286+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:18:47.286+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:18:47.290+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:18:47.290+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:18:47.291+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:18:47.303+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:18:47.342+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:18:47.341+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:18:47.368+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:18:47.367+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:18:47.397+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.124 seconds
+[2024-08-29T16:19:17.623+0300] {processor.py:186} INFO - Started process (PID=84382) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:19:17.632+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:19:17.635+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:19:17.635+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:19:17.640+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:19:17.641+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:19:17.641+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:19:17.658+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:19:17.700+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:19:17.699+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:19:17.723+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:19:17.722+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:19:17.752+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.140 seconds
+[2024-08-29T16:19:48.001+0300] {processor.py:186} INFO - Started process (PID=84638) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:19:48.010+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:19:48.014+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:19:48.013+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:19:48.019+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:19:48.020+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:19:48.020+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:19:48.036+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:19:48.086+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:19:48.085+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:19:48.114+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:19:48.114+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:19:48.149+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.157 seconds
+[2024-08-29T16:20:18.396+0300] {processor.py:186} INFO - Started process (PID=84898) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:20:18.399+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:20:18.406+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:20:18.405+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:20:18.414+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:20:18.415+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:20:18.415+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:20:18.442+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:20:18.483+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:20:18.483+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:20:18.498+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:20:18.498+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:20:18.528+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.148 seconds
+[2024-08-29T16:20:48.796+0300] {processor.py:186} INFO - Started process (PID=85788) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:20:48.798+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:20:48.804+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:20:48.803+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:20:48.810+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:20:48.811+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:20:48.811+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:20:48.831+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:20:48.885+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:20:48.884+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:20:48.916+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:20:48.916+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:20:48.957+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.182 seconds
+[2024-08-29T16:21:19.192+0300] {processor.py:186} INFO - Started process (PID=86014) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:21:19.201+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:21:19.205+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:21:19.205+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:21:19.210+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:21:19.210+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:21:19.210+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:21:19.221+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:21:19.248+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:21:19.247+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:21:19.262+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:21:19.262+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:21:19.285+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.102 seconds
+[2024-08-29T16:21:49.501+0300] {processor.py:186} INFO - Started process (PID=86367) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:21:49.502+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:21:49.505+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:21:49.504+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:21:49.508+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:21:49.508+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:21:49.509+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:21:49.521+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:21:49.561+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:21:49.561+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:21:49.585+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:21:49.585+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:21:49.611+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.119 seconds
+[2024-08-29T16:22:19.837+0300] {processor.py:186} INFO - Started process (PID=86770) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:22:19.839+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:22:19.843+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:22:19.842+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:22:19.847+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:22:19.847+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:22:19.847+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:22:19.861+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:22:19.900+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:22:19.899+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:22:19.919+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:22:19.919+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:22:19.954+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.127 seconds
+[2024-08-29T16:22:50.205+0300] {processor.py:186} INFO - Started process (PID=86884) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:22:50.206+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:22:50.211+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:22:50.211+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:22:50.217+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:22:50.217+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:22:50.217+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:22:50.236+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:22:50.290+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:22:50.289+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:22:50.317+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:22:50.317+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:22:50.360+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.167 seconds
+[2024-08-29T16:23:20.595+0300] {processor.py:186} INFO - Started process (PID=87225) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:23:20.597+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:23:20.602+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:23:20.601+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:23:20.609+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:23:20.610+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:23:20.610+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:23:20.631+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:23:20.687+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:23:20.686+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:23:20.710+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:23:20.710+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:23:20.745+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.164 seconds
+[2024-08-29T16:23:50.977+0300] {processor.py:186} INFO - Started process (PID=88095) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:23:50.986+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:23:50.991+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:23:50.991+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:23:50.996+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:23:50.997+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:23:50.997+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:23:51.014+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:23:51.063+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:23:51.062+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:23:51.089+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:23:51.088+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:23:51.134+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.168 seconds
+[2024-08-29T16:24:21.373+0300] {processor.py:186} INFO - Started process (PID=88732) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:24:21.375+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:24:21.381+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:24:21.380+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:24:21.388+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:24:21.388+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:24:21.388+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:24:21.402+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:24:21.437+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:24:21.437+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:24:21.453+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:24:21.453+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:24:21.479+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.117 seconds
+[2024-08-29T16:24:51.712+0300] {processor.py:186} INFO - Started process (PID=88996) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:24:51.713+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:24:51.717+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:24:51.717+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:24:51.722+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:24:51.723+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:24:51.723+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:24:51.739+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:24:51.781+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:24:51.780+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:24:51.807+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:24:51.807+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:24:51.848+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.146 seconds
+[2024-08-29T16:25:22.086+0300] {processor.py:186} INFO - Started process (PID=89241) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:25:22.096+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:25:22.101+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:25:22.101+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:25:22.107+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:25:22.107+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:25:22.108+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:25:22.125+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:25:22.189+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:25:22.188+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:25:22.227+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:25:22.226+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:25:22.281+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.207 seconds
+[2024-08-29T16:25:52.534+0300] {processor.py:186} INFO - Started process (PID=89690) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:25:52.535+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:25:52.539+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:25:52.538+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:25:52.543+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:25:52.544+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:25:52.544+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:25:52.557+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:25:52.589+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:25:52.589+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:25:52.607+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:25:52.607+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:25:52.638+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.113 seconds
+[2024-08-29T16:26:22.861+0300] {processor.py:186} INFO - Started process (PID=89947) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:26:22.862+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:26:22.866+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:26:22.865+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:26:22.871+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:26:22.871+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:26:22.871+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:26:22.888+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:26:22.922+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:26:22.921+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:26:22.943+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:26:22.943+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:26:22.972+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.120 seconds
+[2024-08-29T16:26:53.195+0300] {processor.py:186} INFO - Started process (PID=90200) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:26:53.204+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:26:53.207+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:26:53.207+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:26:53.210+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:26:53.211+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:26:53.211+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:26:53.222+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:26:53.251+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:26:53.251+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:26:53.271+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:26:53.271+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:26:53.299+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.112 seconds
+[2024-08-29T16:27:23.543+0300] {processor.py:186} INFO - Started process (PID=90650) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:27:23.552+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:27:23.556+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:27:23.555+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:27:23.560+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:27:23.560+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:27:23.560+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:27:23.572+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:27:23.613+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:27:23.613+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:27:23.632+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:27:23.631+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:27:23.662+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.133 seconds
+[2024-08-29T16:27:53.893+0300] {processor.py:186} INFO - Started process (PID=90912) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:27:53.894+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:27:53.898+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:27:53.898+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:27:53.904+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:27:53.904+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:27:53.905+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:27:53.922+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:27:53.971+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:27:53.970+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:27:53.992+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:27:53.992+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:27:54.018+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.137 seconds
+[2024-08-29T16:28:11.112+0300] {processor.py:186} INFO - Started process (PID=91063) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:28:11.121+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:28:11.124+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:28:11.124+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:28:11.129+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:28:11.130+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:28:11.130+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:28:11.140+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:28:11.335+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:28:11.334+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:28:11.356+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:28:11.356+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:28:11.390+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.287 seconds
+[2024-08-29T16:28:41.509+0300] {processor.py:186} INFO - Started process (PID=91361) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:28:41.518+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:28:41.522+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:28:41.522+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:28:41.528+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:28:41.528+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:28:41.528+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:28:41.542+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:28:41.571+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:28:41.571+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:28:41.587+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:28:41.586+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:28:41.607+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.107 seconds
+[2024-08-29T16:29:11.840+0300] {processor.py:186} INFO - Started process (PID=92505) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:29:11.842+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:29:11.848+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:29:11.847+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:29:11.855+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:29:11.856+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:29:11.856+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:29:11.876+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:29:11.923+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:29:11.922+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:29:11.942+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:29:11.942+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:29:11.966+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.138 seconds
+[2024-08-29T16:29:42.224+0300] {processor.py:186} INFO - Started process (PID=93166) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:29:42.226+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:29:42.231+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:29:42.230+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:29:42.238+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:29:42.238+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:29:42.239+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:29:42.258+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:29:42.314+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:29:42.313+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:29:42.341+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:29:42.341+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:29:42.382+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.170 seconds
+[2024-08-29T16:30:12.646+0300] {processor.py:186} INFO - Started process (PID=93413) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:30:12.656+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:30:12.661+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:30:12.660+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:30:12.667+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:30:12.667+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:30:12.668+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:30:12.687+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:30:12.727+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:30:12.726+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:30:12.741+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:30:12.741+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:30:12.775+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.140 seconds
+[2024-08-29T16:30:43.016+0300] {processor.py:186} INFO - Started process (PID=93865) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:30:43.017+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:30:43.020+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:30:43.020+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:30:43.023+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:30:43.024+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:30:43.024+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:30:43.036+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:30:43.073+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:30:43.072+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:30:43.097+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:30:43.097+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:30:43.128+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.120 seconds
+[2024-08-29T16:31:13.393+0300] {processor.py:186} INFO - Started process (PID=94117) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:31:13.394+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:31:13.400+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:31:13.399+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:31:13.406+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:31:13.406+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:31:13.406+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:31:13.433+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:31:13.485+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:31:13.484+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:31:13.521+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:31:13.521+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:31:13.560+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.181 seconds
+[2024-08-29T16:31:43.851+0300] {processor.py:186} INFO - Started process (PID=94359) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:31:43.852+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:31:43.858+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:31:43.857+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:31:43.864+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:31:43.864+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:31:43.865+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:31:43.878+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:31:43.912+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:31:43.912+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:31:43.928+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:31:43.928+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:31:43.953+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.119 seconds
+[2024-08-29T16:32:14.180+0300] {processor.py:186} INFO - Started process (PID=94655) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:32:14.189+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:32:14.196+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:32:14.195+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:32:14.202+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:32:14.202+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:32:14.203+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:32:14.225+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:32:14.268+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:32:14.267+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:32:14.282+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:32:14.282+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:32:14.301+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.133 seconds
+[2024-08-29T16:32:44.533+0300] {processor.py:186} INFO - Started process (PID=94776) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:32:44.534+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:32:44.540+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:32:44.539+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:32:44.546+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:32:44.546+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:32:44.546+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:32:44.564+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:32:44.612+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:32:44.611+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:32:44.632+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:32:44.632+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:32:44.675+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.155 seconds
+[2024-08-29T16:33:14.920+0300] {processor.py:186} INFO - Started process (PID=95023) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:33:14.930+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:33:14.934+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:33:14.933+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:33:14.938+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:33:14.939+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:33:14.939+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:33:14.956+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:33:15.004+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:33:15.003+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:33:15.027+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:33:15.027+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:33:15.060+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.148 seconds
+[2024-08-29T16:33:45.290+0300] {processor.py:186} INFO - Started process (PID=95448) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:33:45.291+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:33:45.294+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:33:45.294+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:33:45.297+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:33:45.298+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:33:45.298+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:33:45.309+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:33:45.344+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:33:45.344+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:33:45.370+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:33:45.370+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:33:45.401+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.117 seconds
+[2024-08-29T16:33:46.310+0300] {processor.py:186} INFO - Started process (PID=95475) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:33:46.311+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:33:46.313+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:33:46.313+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:33:46.319+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:33:46.319+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:33:46.319+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:33:46.331+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:33:46.365+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:33:46.364+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:33:46.382+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:33:46.381+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:33:46.412+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.109 seconds
+[2024-08-29T16:34:16.651+0300] {processor.py:186} INFO - Started process (PID=95811) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:34:16.652+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:34:16.656+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:34:16.656+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:34:16.661+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:34:16.661+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:34:16.661+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:34:16.680+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:34:16.732+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:34:16.731+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:34:16.756+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:34:16.756+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:34:16.787+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.145 seconds
+[2024-08-29T16:34:46.857+0300] {processor.py:186} INFO - Started process (PID=96769) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:34:46.867+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:34:46.871+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:34:46.870+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:34:46.877+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:34:46.877+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:34:46.877+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:34:46.894+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:34:46.935+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:34:46.935+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:34:46.954+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:34:46.954+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:34:46.986+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.137 seconds
+[2024-08-29T16:35:17.215+0300] {processor.py:186} INFO - Started process (PID=97292) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:35:17.224+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:35:17.227+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:35:17.226+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:35:17.230+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:35:17.230+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:35:17.230+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:35:17.241+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:35:17.276+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:35:17.276+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:35:17.291+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:35:17.291+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:35:17.311+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.105 seconds
+[2024-08-29T16:35:47.557+0300] {processor.py:186} INFO - Started process (PID=97722) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:35:47.559+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:35:47.563+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:35:47.563+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:35:47.570+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:35:47.570+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:35:47.571+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:35:47.587+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:35:47.627+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:35:47.626+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:35:47.653+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:35:47.652+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:35:47.695+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.149 seconds
+[2024-08-29T16:36:17.952+0300] {processor.py:186} INFO - Started process (PID=97966) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:36:17.953+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:36:17.958+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:36:17.957+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:36:17.962+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:36:17.963+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:36:17.963+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:36:17.977+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:36:18.011+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:36:18.011+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:36:18.026+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:36:18.026+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:36:18.064+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.122 seconds
+[2024-08-29T16:36:48.338+0300] {processor.py:186} INFO - Started process (PID=98224) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:36:48.347+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:36:48.350+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:36:48.350+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:36:48.355+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:36:48.355+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:36:48.356+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:36:48.371+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:36:48.419+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:36:48.419+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:36:48.451+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:36:48.451+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:36:48.498+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.169 seconds
+[2024-08-29T16:37:18.736+0300] {processor.py:186} INFO - Started process (PID=98670) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:37:18.746+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:37:18.748+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:37:18.748+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:37:18.752+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:37:18.752+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:37:18.752+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:37:18.763+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:37:18.791+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:37:18.790+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:37:18.805+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:37:18.805+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:37:18.825+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.096 seconds
+[2024-08-29T16:37:49.063+0300] {processor.py:186} INFO - Started process (PID=99080) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:37:49.065+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:37:49.073+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:37:49.072+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:37:49.080+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:37:49.080+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:37:49.081+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:37:49.108+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:37:49.195+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:37:49.195+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:37:49.230+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:37:49.229+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:37:49.266+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.214 seconds
+[2024-08-29T16:38:19.511+0300] {processor.py:186} INFO - Started process (PID=99398) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:38:19.512+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:38:19.516+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:38:19.516+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:38:19.521+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:38:19.522+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:38:19.522+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:38:19.539+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:38:19.590+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:38:19.588+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:38:19.622+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:38:19.622+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:38:19.666+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.177 seconds
+[2024-08-29T16:38:49.928+0300] {processor.py:186} INFO - Started process (PID=99845) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:38:49.930+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:38:49.933+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:38:49.933+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:38:49.939+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:38:49.940+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:38:49.940+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:38:49.957+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:38:50.000+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:38:49.999+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:38:50.027+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:38:50.026+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:38:50.068+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.150 seconds
+[2024-08-29T16:39:20.293+0300] {processor.py:186} INFO - Started process (PID=100222) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:39:20.294+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:39:20.299+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:39:20.298+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:39:20.304+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:39:20.305+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:39:20.305+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:39:20.323+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:39:20.367+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:39:20.366+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:39:20.389+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:39:20.388+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:39:20.418+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.134 seconds
+[2024-08-29T16:39:50.656+0300] {processor.py:186} INFO - Started process (PID=100477) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:39:50.665+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:39:50.667+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:39:50.667+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:39:50.671+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:39:50.671+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:39:50.671+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:39:50.683+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:39:50.711+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:39:50.710+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:39:50.725+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:39:50.725+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:39:50.748+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.102 seconds
+[2024-08-29T16:40:20.993+0300] {processor.py:186} INFO - Started process (PID=101200) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:40:20.995+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:40:20.999+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:40:20.999+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:40:21.004+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:40:21.004+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:40:21.004+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:40:21.016+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:40:21.068+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:40:21.067+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:40:21.101+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:40:21.100+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:40:21.146+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.163 seconds
+[2024-08-29T16:40:51.396+0300] {processor.py:186} INFO - Started process (PID=101430) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:40:51.398+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:40:51.404+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:40:51.404+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:40:51.411+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:40:51.411+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:40:51.411+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:40:51.430+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:40:51.472+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:40:51.471+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:40:51.497+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:40:51.496+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:40:51.528+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.146 seconds
+[2024-08-29T16:41:21.773+0300] {processor.py:186} INFO - Started process (PID=101537) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:41:21.775+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:41:21.781+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:41:21.780+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:41:21.787+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:41:21.788+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:41:21.788+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:41:21.804+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:41:21.835+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:41:21.835+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:41:21.849+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:41:21.849+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:41:21.872+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.112 seconds
+[2024-08-29T16:41:52.121+0300] {processor.py:186} INFO - Started process (PID=101625) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:41:52.122+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:41:52.126+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:41:52.126+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:41:52.130+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:41:52.131+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:41:52.131+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:41:52.142+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:41:52.175+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:41:52.175+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:41:52.200+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:41:52.199+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:41:52.228+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.116 seconds
+[2024-08-29T16:42:22.468+0300] {processor.py:186} INFO - Started process (PID=101911) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:42:22.470+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:42:22.474+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:42:22.473+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:42:22.478+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:42:22.479+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:42:22.479+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:42:22.496+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:42:22.531+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:42:22.531+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:42:22.553+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:42:22.553+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:42:22.585+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.127 seconds
+[2024-08-29T16:42:52.827+0300] {processor.py:186} INFO - Started process (PID=102150) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:42:52.829+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:42:52.831+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:42:52.831+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:42:52.835+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:42:52.835+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:42:52.835+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:42:52.846+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:42:52.881+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:42:52.880+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:42:52.901+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:42:52.901+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:42:52.931+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.114 seconds
+[2024-08-29T16:43:23.169+0300] {processor.py:186} INFO - Started process (PID=102236) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:43:23.177+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:43:23.180+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:43:23.180+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:43:23.183+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:43:23.184+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:43:23.184+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:43:23.195+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:43:23.229+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:43:23.228+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:43:23.246+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:43:23.245+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:43:23.272+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.112 seconds
+[2024-08-29T16:43:53.507+0300] {processor.py:186} INFO - Started process (PID=102528) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:43:53.510+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:43:53.515+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:43:53.514+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:43:53.520+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:43:53.521+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:43:53.521+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:43:53.543+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:43:53.592+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:43:53.591+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:43:53.614+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:43:53.614+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:43:53.638+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.144 seconds
+[2024-08-29T16:44:23.869+0300] {processor.py:186} INFO - Started process (PID=102737) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:44:23.871+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:44:23.877+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:44:23.876+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:44:23.882+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:44:23.882+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:44:23.882+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:44:23.898+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:44:23.944+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:44:23.943+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:44:23.965+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:44:23.965+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:44:23.997+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.140 seconds
+[2024-08-29T16:44:50.194+0300] {processor.py:186} INFO - Started process (PID=102826) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:44:50.195+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:44:50.198+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:44:50.197+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:44:50.204+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:44:50.204+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:44:50.204+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:44:50.216+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:44:50.246+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:44:50.246+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:44:50.268+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:44:50.268+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:44:50.304+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.121 seconds
+[2024-08-29T16:45:20.565+0300] {processor.py:186} INFO - Started process (PID=103100) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:45:20.567+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:45:20.574+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:45:20.574+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:45:20.583+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:45:20.583+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:45:20.584+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:45:20.605+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:45:20.660+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:45:20.659+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:45:20.678+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:45:20.678+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:45:20.702+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.154 seconds
+[2024-08-29T16:45:50.934+0300] {processor.py:186} INFO - Started process (PID=103199) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:45:50.935+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:45:50.939+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:45:50.938+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:45:50.944+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:45:50.944+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:45:50.945+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:45:50.963+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:45:51.007+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:45:51.006+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:45:51.032+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:45:51.032+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:45:51.070+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.146 seconds
+[2024-08-29T16:46:21.303+0300] {processor.py:186} INFO - Started process (PID=103451) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:46:21.305+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:46:21.310+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:46:21.309+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:46:21.316+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:46:21.316+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:46:21.316+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:46:21.336+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:46:21.376+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:46:21.375+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:46:21.406+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:46:21.405+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:46:21.439+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.149 seconds
+[2024-08-29T16:46:51.674+0300] {processor.py:186} INFO - Started process (PID=104278) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:46:51.675+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:46:51.679+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:46:51.678+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:46:51.686+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:46:51.686+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:46:51.687+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:46:51.705+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:46:51.744+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:46:51.744+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:46:51.773+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:46:51.773+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:46:51.802+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.135 seconds
+[2024-08-29T16:47:22.036+0300] {processor.py:186} INFO - Started process (PID=104715) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:47:22.037+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:47:22.041+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:47:22.041+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:47:22.045+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:47:22.046+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:47:22.046+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:47:22.056+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:47:22.085+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:47:22.085+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:47:22.099+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:47:22.099+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:47:22.117+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.090 seconds
+[2024-08-29T16:47:52.343+0300] {processor.py:186} INFO - Started process (PID=104909) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:47:52.345+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:47:52.349+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:47:52.348+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:47:52.354+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:47:52.354+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:47:52.354+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:47:52.373+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:47:52.415+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:47:52.414+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:47:52.439+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:47:52.439+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:47:52.467+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.133 seconds
+[2024-08-29T16:48:22.702+0300] {processor.py:186} INFO - Started process (PID=105005) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:48:22.710+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:48:22.716+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:48:22.716+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:48:22.722+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:48:22.723+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:48:22.723+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:48:22.740+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:48:22.780+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:48:22.779+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:48:22.799+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:48:22.799+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:48:22.824+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.134 seconds
+[2024-08-29T16:48:53.066+0300] {processor.py:186} INFO - Started process (PID=105271) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:48:53.076+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:48:53.081+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:48:53.080+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:48:53.088+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:48:53.089+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:48:53.089+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:48:53.108+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:48:53.155+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:48:53.154+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:48:53.182+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:48:53.181+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:48:53.213+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.157 seconds
+[2024-08-29T16:49:23.440+0300] {processor.py:186} INFO - Started process (PID=105485) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:49:23.442+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:49:23.446+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:49:23.445+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:49:23.449+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:49:23.449+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:49:23.449+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:49:23.460+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:49:23.499+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:49:23.498+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:49:23.521+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:49:23.521+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:49:23.549+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.118 seconds
+[2024-08-29T16:49:53.778+0300] {processor.py:186} INFO - Started process (PID=105577) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:49:53.779+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:49:53.782+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:49:53.781+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:49:53.786+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:49:53.786+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:49:53.786+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:49:53.798+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:49:53.832+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:49:53.831+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:49:53.849+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:49:53.849+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:49:53.872+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.103 seconds
+[2024-08-29T16:50:24.108+0300] {processor.py:186} INFO - Started process (PID=105850) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:50:24.117+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:50:24.121+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:50:24.121+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:50:24.126+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:50:24.126+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:50:24.126+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:50:24.141+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:50:24.181+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:50:24.180+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:50:24.206+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:50:24.205+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:50:24.245+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.147 seconds
+[2024-08-29T16:50:54.464+0300] {processor.py:186} INFO - Started process (PID=105959) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:50:54.473+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:50:54.478+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:50:54.477+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:50:54.483+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:50:54.484+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:50:54.484+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:50:54.503+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:50:54.545+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:50:54.545+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:50:54.570+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:50:54.570+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:50:54.603+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.148 seconds
+[2024-08-29T16:51:24.825+0300] {processor.py:186} INFO - Started process (PID=106055) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:51:24.826+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:51:24.829+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:51:24.829+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:51:24.834+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:51:24.835+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:51:24.835+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:51:24.854+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:51:24.897+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:51:24.896+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:51:24.916+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:51:24.916+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:51:24.946+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.127 seconds
+[2024-08-29T16:51:55.188+0300] {processor.py:186} INFO - Started process (PID=106394) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:51:55.196+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:51:55.202+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:51:55.201+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:51:55.209+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:51:55.209+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:51:55.209+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:51:55.230+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:51:55.283+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:51:55.282+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:51:55.307+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:51:55.307+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:51:55.339+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.165 seconds
+[2024-08-29T16:52:25.583+0300] {processor.py:186} INFO - Started process (PID=106500) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:52:25.584+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:52:25.587+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:52:25.586+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:52:25.590+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:52:25.590+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:52:25.590+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:52:25.602+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:52:25.642+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:52:25.641+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:52:25.666+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:52:25.666+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:52:25.695+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.119 seconds
+[2024-08-29T16:52:55.926+0300] {processor.py:186} INFO - Started process (PID=106587) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:52:55.927+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:52:55.930+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:52:55.930+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:52:55.934+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:52:55.934+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:52:55.934+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:52:55.950+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:52:55.985+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:52:55.985+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:52:56.005+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:52:56.005+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:52:56.027+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.109 seconds
+[2024-08-29T16:53:26.270+0300] {processor.py:186} INFO - Started process (PID=106868) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:53:26.280+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:53:26.284+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:53:26.284+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:53:26.289+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:53:26.290+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:53:26.290+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:53:26.306+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:53:26.346+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:53:26.345+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:53:26.360+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:53:26.360+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:53:26.389+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.131 seconds
+[2024-08-29T16:53:56.623+0300] {processor.py:186} INFO - Started process (PID=106980) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:53:56.624+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:53:56.629+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:53:56.628+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:53:56.632+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:53:56.632+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:53:56.633+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:53:56.645+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:53:56.686+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:53:56.685+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:53:56.710+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:53:56.709+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:53:56.737+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.121 seconds
+[2024-08-29T16:54:26.964+0300] {processor.py:186} INFO - Started process (PID=107196) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:54:26.965+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:54:26.967+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:54:26.967+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:54:26.971+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:54:26.971+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:54:26.971+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:54:26.982+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:54:27.020+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:54:27.019+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:54:27.040+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:54:27.040+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:54:27.066+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.110 seconds
+[2024-08-29T16:54:57.309+0300] {processor.py:186} INFO - Started process (PID=107534) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:54:57.312+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:54:57.317+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:54:57.316+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:54:57.322+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:54:57.323+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:54:57.323+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:54:57.344+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:54:57.396+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:54:57.394+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:54:57.425+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:54:57.424+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:54:57.473+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.174 seconds
+[2024-08-29T16:55:27.733+0300] {processor.py:186} INFO - Started process (PID=107651) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:55:27.743+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:55:27.749+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:55:27.748+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:55:27.755+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:55:27.756+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:55:27.756+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:55:27.775+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:55:27.818+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:55:27.817+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:55:27.839+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:55:27.838+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:55:27.899+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.179 seconds
+[2024-08-29T16:55:58.152+0300] {processor.py:186} INFO - Started process (PID=107744) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:55:58.154+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:55:58.159+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:55:58.158+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:55:58.165+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:55:58.166+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:55:58.166+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:55:58.181+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:55:58.218+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:55:58.217+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:55:58.238+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:55:58.238+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:55:58.277+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.139 seconds
+[2024-08-29T16:56:28.529+0300] {processor.py:186} INFO - Started process (PID=107834) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:56:28.538+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:56:28.542+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:56:28.541+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:56:28.547+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:56:28.548+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:56:28.548+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:56:28.562+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:56:28.589+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:56:28.589+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:56:28.603+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:56:28.603+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:56:28.627+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.104 seconds
+[2024-08-29T16:56:58.867+0300] {processor.py:186} INFO - Started process (PID=108111) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:56:58.876+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:56:58.881+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:56:58.880+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:56:58.886+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:56:58.887+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:56:58.887+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:56:58.905+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:56:58.958+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:56:58.957+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:56:58.987+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:56:58.987+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:56:59.040+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.186 seconds
+[2024-08-29T16:57:29.297+0300] {processor.py:186} INFO - Started process (PID=108197) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:57:29.299+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:57:29.302+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:57:29.302+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:57:29.307+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:57:29.307+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:57:29.307+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:57:29.323+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:57:29.357+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:57:29.357+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:57:29.373+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:57:29.373+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:57:29.405+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.118 seconds
+[2024-08-29T16:57:59.632+0300] {processor.py:186} INFO - Started process (PID=108293) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:57:59.634+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:57:59.638+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:57:59.638+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:57:59.643+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:57:59.643+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:57:59.643+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:57:59.658+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:57:59.705+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:57:59.704+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:57:59.724+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:57:59.723+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:57:59.754+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.130 seconds
+[2024-08-29T16:58:29.989+0300] {processor.py:186} INFO - Started process (PID=108590) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:58:29.991+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:58:29.995+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:58:29.994+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:58:29.999+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:58:30.000+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:58:30.000+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:58:30.014+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:58:30.054+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:58:30.054+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:58:30.076+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:58:30.076+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:58:30.107+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.127 seconds
+[2024-08-29T16:59:00.350+0300] {processor.py:186} INFO - Started process (PID=108677) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:59:00.352+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:59:00.357+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:59:00.356+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:59:00.364+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:59:00.364+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:59:00.365+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:59:00.381+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:59:00.419+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:59:00.418+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:59:00.441+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:59:00.441+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:59:00.480+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.142 seconds
+[2024-08-29T16:59:30.707+0300] {processor.py:186} INFO - Started process (PID=108888) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:59:30.716+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T16:59:30.721+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:59:30.720+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:59:30.726+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T16:59:30.726+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T16:59:30.727+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T16:59:30.743+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T16:59:30.794+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:59:30.793+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T16:59:30.820+0300] {logging_mixin.py:190} INFO - [2024-08-29T16:59:30.819+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T16:59:30.849+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.152 seconds
+[2024-08-29T17:00:01.084+0300] {processor.py:186} INFO - Started process (PID=109163) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:00:01.093+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:00:01.098+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:00:01.097+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:00:01.103+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:00:01.103+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:00:01.103+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:00:01.120+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:00:01.156+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:00:01.155+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:00:01.175+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:00:01.175+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:00:01.217+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.143 seconds
+[2024-08-29T17:00:31.448+0300] {processor.py:186} INFO - Started process (PID=109251) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:00:31.449+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:00:31.452+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:00:31.451+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:00:31.455+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:00:31.456+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:00:31.456+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:00:31.472+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:00:31.510+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:00:31.509+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:00:31.531+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:00:31.531+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:00:31.562+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.120 seconds
+[2024-08-29T17:01:01.806+0300] {processor.py:186} INFO - Started process (PID=109347) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:01:01.815+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:01:01.820+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:01:01.819+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:01:01.826+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:01:01.826+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:01:01.826+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:01:01.846+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:01:01.887+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:01:01.887+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:01:01.903+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:01:01.903+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:01:01.925+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.132 seconds
+[2024-08-29T17:01:32.158+0300] {processor.py:186} INFO - Started process (PID=109612) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:01:32.167+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:01:32.172+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:01:32.171+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:01:32.177+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:01:32.177+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:01:32.177+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:01:32.192+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:01:32.230+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:01:32.230+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:01:32.249+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:01:32.249+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:01:32.289+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.141 seconds
+[2024-08-29T17:02:02.526+0300] {processor.py:186} INFO - Started process (PID=109709) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:02:02.535+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:02:02.539+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:02:02.538+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:02:02.544+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:02:02.544+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:02:02.545+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:02:02.557+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:02:02.590+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:02:02.589+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:02:02.619+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:02:02.619+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:02:02.654+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.139 seconds
+[2024-08-29T17:02:32.892+0300] {processor.py:186} INFO - Started process (PID=109798) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:02:32.893+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:02:32.897+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:02:32.896+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:02:32.901+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:02:32.902+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:02:32.902+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:02:32.919+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:02:32.948+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:02:32.948+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:02:32.967+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:02:32.966+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:02:33.004+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.121 seconds
+[2024-08-29T17:03:03.232+0300] {processor.py:186} INFO - Started process (PID=110081) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:03:03.242+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:03:03.247+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:03:03.246+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:03:03.251+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:03:03.252+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:03:03.252+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:03:03.274+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:03:03.318+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:03:03.318+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:03:03.342+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:03:03.342+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:03:03.382+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.159 seconds
+[2024-08-29T17:03:33.632+0300] {processor.py:186} INFO - Started process (PID=110168) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:03:33.642+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:03:33.648+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:03:33.647+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:03:33.652+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:03:33.652+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:03:33.652+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:03:33.665+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:03:33.707+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:03:33.707+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:03:33.730+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:03:33.729+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:03:33.761+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.139 seconds
+[2024-08-29T17:04:04.011+0300] {processor.py:186} INFO - Started process (PID=110264) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:04:04.021+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:04:04.027+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:04:04.026+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:04:04.034+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:04:04.034+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:04:04.035+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:04:04.062+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:04:04.118+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:04:04.117+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:04:04.144+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:04:04.143+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:04:04.181+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.182 seconds
+[2024-08-29T17:04:34.429+0300] {processor.py:186} INFO - Started process (PID=110472) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:04:34.432+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:04:34.439+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:04:34.438+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:04:34.446+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:04:34.446+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:04:34.447+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:04:34.469+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:04:34.516+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:04:34.515+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:04:34.548+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:04:34.548+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:04:34.583+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.168 seconds
+[2024-08-29T17:05:04.820+0300] {processor.py:186} INFO - Started process (PID=110738) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:05:04.822+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:05:04.825+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:05:04.825+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:05:04.829+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:05:04.830+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:05:04.830+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:05:04.841+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:05:04.872+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:05:04.872+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:05:04.892+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:05:04.892+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:05:04.925+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.115 seconds
+[2024-08-29T17:05:35.156+0300] {processor.py:186} INFO - Started process (PID=110856) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:05:35.166+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:05:35.171+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:05:35.170+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:05:35.176+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:05:35.176+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:05:35.176+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:05:35.193+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:05:35.233+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:05:35.232+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:05:35.260+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:05:35.260+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:05:35.301+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.154 seconds
+[2024-08-29T17:06:05.528+0300] {processor.py:186} INFO - Started process (PID=110942) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:06:05.529+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:06:05.531+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:06:05.531+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:06:05.535+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:06:05.535+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:06:05.535+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:06:05.546+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:06:05.583+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:06:05.582+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:06:05.601+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:06:05.601+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:06:05.632+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.111 seconds
+[2024-08-29T17:06:35.879+0300] {processor.py:186} INFO - Started process (PID=111240) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:06:35.888+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:06:35.893+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:06:35.892+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:06:35.899+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:06:35.899+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:06:35.899+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:06:35.924+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:06:35.979+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:06:35.978+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:06:36.001+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:06:36.000+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:06:36.033+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.166 seconds
+[2024-08-29T17:07:06.267+0300] {processor.py:186} INFO - Started process (PID=111325) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:07:06.268+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:07:06.272+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:07:06.271+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:07:06.276+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:07:06.277+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:07:06.277+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:07:06.291+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:07:06.331+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:07:06.331+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:07:06.352+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:07:06.352+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:07:06.378+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.122 seconds
+[2024-08-29T17:07:36.612+0300] {processor.py:186} INFO - Started process (PID=111432) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:07:36.621+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:07:36.624+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:07:36.624+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:07:36.629+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:07:36.629+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:07:36.630+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:07:36.647+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:07:36.692+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:07:36.691+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:07:36.718+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:07:36.718+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:07:36.749+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.145 seconds
+[2024-08-29T17:08:06.983+0300] {processor.py:186} INFO - Started process (PID=111738) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:08:06.984+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:08:06.988+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:08:06.987+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:08:06.993+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:08:06.993+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:08:06.993+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:08:07.007+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:08:07.044+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:08:07.043+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:08:07.064+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:08:07.064+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:08:07.097+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.125 seconds
+[2024-08-29T17:08:37.341+0300] {processor.py:186} INFO - Started process (PID=111840) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:08:37.342+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:08:37.346+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:08:37.346+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:08:37.353+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:08:37.353+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:08:37.353+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:08:37.370+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:08:37.409+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:08:37.408+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:08:37.429+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:08:37.429+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:08:37.457+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.126 seconds
+[2024-08-29T17:09:07.683+0300] {processor.py:186} INFO - Started process (PID=112500) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:09:07.685+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:09:07.688+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:09:07.688+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:09:07.691+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:09:07.692+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:09:07.692+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:09:07.704+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:09:07.743+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:09:07.743+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:09:07.761+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:09:07.761+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:09:07.798+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.122 seconds
+[2024-08-29T17:09:38.033+0300] {processor.py:186} INFO - Started process (PID=112959) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:09:38.034+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:09:38.036+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:09:38.036+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:09:38.040+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:09:38.040+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:09:38.040+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:09:38.051+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:09:38.088+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:09:38.087+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:09:38.105+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:09:38.105+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:09:38.134+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.110 seconds
+[2024-08-29T17:10:08.370+0300] {processor.py:186} INFO - Started process (PID=113051) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:10:08.371+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:10:08.375+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:10:08.374+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:10:08.379+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:10:08.379+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:10:08.379+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:10:08.395+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:10:08.435+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:10:08.435+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:10:08.455+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:10:08.455+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:10:08.482+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.121 seconds
+[2024-08-29T17:10:38.727+0300] {processor.py:186} INFO - Started process (PID=113142) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:10:38.728+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:10:38.735+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:10:38.734+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:10:38.741+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:10:38.742+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:10:38.742+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:10:38.765+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:10:38.819+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:10:38.818+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:10:38.842+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:10:38.841+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:10:38.893+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.176 seconds
+[2024-08-29T17:11:09.134+0300] {processor.py:186} INFO - Started process (PID=113435) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:11:09.135+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:11:09.139+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:11:09.138+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:11:09.144+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:11:09.145+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:11:09.145+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:11:09.164+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:11:09.205+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:11:09.204+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:11:09.229+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:11:09.228+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:11:09.255+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.132 seconds
+[2024-08-29T17:11:39.498+0300] {processor.py:186} INFO - Started process (PID=113528) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:11:39.499+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:11:39.502+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:11:39.502+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:11:39.506+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:11:39.506+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:11:39.506+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:11:39.518+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:11:39.554+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:11:39.553+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:11:39.574+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:11:39.574+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:11:39.602+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.110 seconds
+[2024-08-29T17:12:09.838+0300] {processor.py:186} INFO - Started process (PID=113640) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:12:09.839+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:12:09.842+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:12:09.842+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:12:09.846+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:12:09.846+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:12:09.846+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:12:09.858+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:12:09.885+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:12:09.885+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:12:09.900+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:12:09.900+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:12:09.926+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.094 seconds
+[2024-08-29T17:12:40.191+0300] {processor.py:186} INFO - Started process (PID=113729) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:12:40.201+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:12:40.205+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:12:40.204+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:12:40.210+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:12:40.211+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:12:40.211+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:12:40.222+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:12:40.257+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:12:40.256+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:12:40.282+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:12:40.281+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:12:40.301+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.119 seconds
+[2024-08-29T17:13:10.550+0300] {processor.py:186} INFO - Started process (PID=114048) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:13:10.560+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:13:10.566+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:13:10.565+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:13:10.573+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:13:10.574+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:13:10.574+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:13:10.594+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:13:10.635+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:13:10.634+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:13:10.661+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:13:10.661+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:13:10.687+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.148 seconds
+[2024-08-29T17:13:40.952+0300] {processor.py:186} INFO - Started process (PID=114253) to work on /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:13:40.954+0300] {processor.py:914} INFO - Processing file /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py for tasks to queue
+[2024-08-29T17:13:40.958+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:13:40.957+0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:13:40.964+0300] {logging_mixin.py:190} INFO - Project: visualization-app-404406
+[2024-08-29T17:13:40.964+0300] {logging_mixin.py:190} INFO - Dataset: tc4a
+[2024-08-29T17:13:40.964+0300] {logging_mixin.py:190} INFO - Table: attendance
+[2024-08-29T17:13:40.983+0300] {processor.py:925} INFO - DAG(s) 'tc4a_data_visualization' retrieved from /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py
+[2024-08-29T17:13:41.025+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:13:41.025+0300] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-29T17:13:41.043+0300] {logging_mixin.py:190} INFO - [2024-08-29T17:13:41.043+0300] {dag.py:4138} INFO - Setting next_dagrun for tc4a_data_visualization to None, run_after=None
+[2024-08-29T17:13:41.071+0300] {processor.py:208} INFO - Processing /home/sang/Documents/tc4a/airflow/dags/postgres_setup.py took 0.130 seconds

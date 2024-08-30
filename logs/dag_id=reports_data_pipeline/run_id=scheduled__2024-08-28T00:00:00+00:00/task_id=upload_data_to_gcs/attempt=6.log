@@ -1,0 +1,21 @@
+[2024-08-29T14:21:32.521+0300] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-08-29T14:21:32.537+0300] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: reports_data_pipeline.upload_data_to_gcs scheduled__2024-08-28T00:00:00+00:00 [queued]>
+[2024-08-29T14:21:32.543+0300] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: reports_data_pipeline.upload_data_to_gcs scheduled__2024-08-28T00:00:00+00:00 [queued]>
+[2024-08-29T14:21:32.544+0300] {taskinstance.py:2856} INFO - Starting attempt 6 of 7
+[2024-08-29T14:21:32.555+0300] {taskinstance.py:2879} INFO - Executing <Task(PythonOperator): upload_data_to_gcs> on 2024-08-28 00:00:00+00:00
+[2024-08-29T14:21:32.562+0300] {logging_mixin.py:190} WARNING - /home/sang/Documents/tc4a/airflow/env/lib64/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:70 DeprecationWarning: This process (pid=52268) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2024-08-29T14:21:32.563+0300] {standard_task_runner.py:72} INFO - Started process 52366 to run task
+[2024-08-29T14:21:32.562+0300] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'reports_data_pipeline', 'upload_data_to_gcs', 'scheduled__2024-08-28T00:00:00+00:00', '--job-id', '21', '--raw', '--subdir', 'DAGS_FOLDER/setup.py', '--cfg-path', '/tmp/tmpvl5xvbaf']
+[2024-08-29T14:21:32.564+0300] {standard_task_runner.py:105} INFO - Job 21: Subtask upload_data_to_gcs
+[2024-08-29T14:21:32.602+0300] {task_command.py:467} INFO - Running <TaskInstance: reports_data_pipeline.upload_data_to_gcs scheduled__2024-08-28T00:00:00+00:00 [running]> on host sa
+[2024-08-29T14:21:32.657+0300] {taskinstance.py:3122} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='tc4a' AIRFLOW_CTX_DAG_ID='reports_data_pipeline' AIRFLOW_CTX_TASK_ID='upload_data_to_gcs' AIRFLOW_CTX_EXECUTION_DATE='2024-08-28T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='6' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-08-28T00:00:00+00:00'
+[2024-08-29T14:21:32.657+0300] {taskinstance.py:731} INFO - ::endgroup::
+[2024-08-29T14:21:32.673+0300] {connection.py:277} WARNING - Connection schemes (type: google_cloud_platform) shall not contain '_' according to RFC3986.
+[2024-08-29T14:21:32.674+0300] {base.py:84} INFO - Retrieving connection 'gcp_conn'
+[2024-08-29T14:21:35.112+0300] {gcs.py:560} INFO - File dags/zoom_report_20240828.csv uploaded to zoom/zoom_report_20240828.csv in tc4a-backet bucket
+[2024-08-29T14:21:35.112+0300] {python.py:240} INFO - Done. Returned value was: None
+[2024-08-29T14:21:35.122+0300] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-08-29T14:21:35.123+0300] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=reports_data_pipeline, task_id=upload_data_to_gcs, run_id=scheduled__2024-08-28T00:00:00+00:00, execution_date=20240828T000000, start_date=20240829T112132, end_date=20240829T112135
+[2024-08-29T14:21:35.184+0300] {local_task_job_runner.py:261} INFO - Task exited with return code 0
+[2024-08-29T14:21:35.201+0300] {taskinstance.py:3891} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-08-29T14:21:35.203+0300] {local_task_job_runner.py:240} INFO - ::endgroup::

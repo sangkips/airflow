@@ -1,0 +1,20 @@
+[2024-08-29T13:53:50.391+0300] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-08-29T13:53:50.407+0300] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: reports_data_pipeline.fetch_data_from_postgres scheduled__2024-08-28T00:00:00+00:00 [queued]>
+[2024-08-29T13:53:50.413+0300] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: reports_data_pipeline.fetch_data_from_postgres scheduled__2024-08-28T00:00:00+00:00 [queued]>
+[2024-08-29T13:53:50.413+0300] {taskinstance.py:2856} INFO - Starting attempt 3 of 3
+[2024-08-29T13:53:50.426+0300] {taskinstance.py:2879} INFO - Executing <Task(PythonOperator): fetch_data_from_postgres> on 2024-08-28 00:00:00+00:00
+[2024-08-29T13:53:50.432+0300] {logging_mixin.py:190} WARNING - /home/sang/Documents/tc4a/airflow/env/lib64/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:70 DeprecationWarning: This process (pid=33051) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2024-08-29T13:53:50.432+0300] {standard_task_runner.py:72} INFO - Started process 33070 to run task
+[2024-08-29T13:53:50.432+0300] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'reports_data_pipeline', 'fetch_data_from_postgres', 'scheduled__2024-08-28T00:00:00+00:00', '--job-id', '8', '--raw', '--subdir', 'DAGS_FOLDER/setup.py', '--cfg-path', '/tmp/tmp8wl04yka']
+[2024-08-29T13:53:50.434+0300] {standard_task_runner.py:105} INFO - Job 8: Subtask fetch_data_from_postgres
+[2024-08-29T13:53:50.473+0300] {task_command.py:467} INFO - Running <TaskInstance: reports_data_pipeline.fetch_data_from_postgres scheduled__2024-08-28T00:00:00+00:00 [running]> on host sa
+[2024-08-29T13:53:50.536+0300] {taskinstance.py:3122} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='tc4a' AIRFLOW_CTX_DAG_ID='reports_data_pipeline' AIRFLOW_CTX_TASK_ID='fetch_data_from_postgres' AIRFLOW_CTX_EXECUTION_DATE='2024-08-28T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='3' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-08-28T00:00:00+00:00'
+[2024-08-29T13:53:50.538+0300] {taskinstance.py:731} INFO - ::endgroup::
+[2024-08-29T13:53:50.559+0300] {base.py:84} INFO - Retrieving connection 'postgres_localhost'
+[2024-08-29T13:53:50.566+0300] {setup.py:36} INFO - Saved data to dags/zoom_report_20240828.csv
+[2024-08-29T13:53:50.566+0300] {python.py:240} INFO - Done. Returned value was: None
+[2024-08-29T13:53:50.574+0300] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-08-29T13:53:50.575+0300] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=reports_data_pipeline, task_id=fetch_data_from_postgres, run_id=scheduled__2024-08-28T00:00:00+00:00, execution_date=20240828T000000, start_date=20240829T105350, end_date=20240829T105350
+[2024-08-29T13:53:50.606+0300] {local_task_job_runner.py:261} INFO - Task exited with return code 0
+[2024-08-29T13:53:50.629+0300] {taskinstance.py:3891} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-08-29T13:53:50.634+0300] {local_task_job_runner.py:240} INFO - ::endgroup::
